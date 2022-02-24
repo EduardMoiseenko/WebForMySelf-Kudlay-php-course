@@ -1,4 +1,5 @@
 <?php
+// Урок 3.PHP переменные и константы
 error_reporting(-1);
 
 $var = 'Hello world';

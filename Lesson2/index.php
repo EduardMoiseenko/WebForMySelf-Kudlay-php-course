@@ -1,3 +1,5 @@
+<!--Урок 2.Синтаксис PHP. Основы синтаксиса языка PHP-->
+
 <!doctype html>
 <html lang="en">
 <head>

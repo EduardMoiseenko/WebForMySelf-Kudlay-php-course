@@ -1,4 +1,5 @@
 <?php
+// Урок 4.Типы данных в PHP
 error_reporting(-1);
 
 // $this = '123';
