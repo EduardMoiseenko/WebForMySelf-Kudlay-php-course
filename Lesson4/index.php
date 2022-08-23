@@ -55,7 +55,6 @@ $str4 = <<<'HERE'
 This 'is' "string". $var
 HERE;
 echo $str4;
-
 ?>
 
 
