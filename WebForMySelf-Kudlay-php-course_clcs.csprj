@@ -1,0 +1,429 @@
+
+<codestructure version="2.1.0">
+<phptree>
+<treenode node="ADMIN;PHP:PHP Word;3796299808;f8;2;13;2;;;;vpos;;v;;a;;r&apos;admin&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DB;PHP:PHP Word;3858204584;f8;14;10;14;;;;vpos;;v;;a;;r[&#10;    &apos;DBHOST&apos; =&gt; &apos;localhost&apos;,&#10;    &apos;DBUSER&apos; =&gt; &apos;login&apos;,&#10;    &apos;DBPASS&apos; =&gt; &apos;password&apos;,&#10;    &apos;DBBASE&apos; =&gt; &apos;database&apos;,;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DBBASE;PHP:PHP Word;3858204584;f8;5;14;5;;;;vpos;;v;;a;;r&apos;database&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DBHOST;PHP:PHP Word;3858204584;f8;2;14;2;;;;vpos;;v;;a;;r&apos;localhost&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DBPASS;PHP:PHP Word;3858204584;f8;4;14;4;;;;vpos;;v;;a;;r&apos;password&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DBUSER;PHP:PHP Word;3858204584;f8;3;14;3;;;;vpos;;v;;a;;r&apos;login&apos;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PAGE;PHP:PHP Word;968457533;f8;9;12;9;;;;vpos;;v;;a;;r&quot;new page&quot;;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PAGE2;PHP:PHP Word;968457533;f5;12;11;12;;;;vpos;;v;;a;;r&apos;new const&apos;&#10;?&gt;&#10;&#10;&lt;!doctype html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot;&#10;          content=&quot;width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&quot;&gt;&#10;    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;ie=edge&quot;&gt;&#10;    &lt;title&gt;Урок 3&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;h1&gt;&lt;?php echo $var;;d-1,-1;;b0,5;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="classes/Car.php;PHP:PHP Include;2999682796;f14;2;29;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="classes/FirstClass.php;PHP:PHP Include;909319047;f14;2;36;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="connect.php;PHP:PHP Include;196365863;f14;4;25;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="funcs.php;PHP:PHP Include;196365863;f14;5;23;5;;1707510268;f14;4;23;4;;1567510058;f14;2;23;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="inc.php;PHP:PHP Include;547535192;f14;1;21;1;;2782700769;f14;1;21;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="inc/footer.php;PHP:PHP Include;61549939;f20;128;34;128;;3584141758;f20;128;34;128;;670444618;f20;128;34;128;;2476054684;f20;128;34;128;;2488043346;f20;128;34;128;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="inc/header.php;PHP:PHP Include;61549939;f20;0;34;0;;3584141758;f20;0;34;0;;670444618;f20;0;34;0;;2476054684;f20;0;34;0;;2488043346;f20;0;34;0;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="inc/inc.php;PHP:PHP Include;3806478899;f24;13;35;13;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="Car;PHP:Class Name;2879073094;f0;2;1;8;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="$brand;PHP:Var Name;2879073094;f8;7;14;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$color;PHP:Var Name;2879073094;f11;4;17;4;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$speed;PHP:Var Name;2879073094;f11;6;17;6;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$wheels;PHP:Var Name;2879073094;f11;5;18;5;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+<treenode node="Controller;PHP:Class Name;4072613414;f0;11;1;19;;;;vpos;;v;;a;;r;;d0,12;;b0,0;;m0;;e0;;i0;;o;;k;;lclasses\controllers;;n">
+<treenode node="__construct;PHP:Function Name;4072613414;f11;14;5;17;;;;vpos;;v;;a;;r;;d4,15;;b1,0;;m0;;e0;;i0;;o;;k;;lclasses\controllers;;n">
+</treenode>
+</treenode>
+<treenode node="FirstClass;PHP:Class Name;3491669265;f0;2;1;5;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="Model;PHP:Class Name;288526790;f0;11;1;19;;;;vpos;;v;;a;;r;;d0,12;;b0,0;;m0;;e0;;i0;;o;;k;;lclasses\models;;n">
+<treenode node="__construct;PHP:Function Name;288526790;f11;14;5;17;;;;vpos;;v;;a;;r;;d4,15;;b1,0;;m0;;e0;;i0;;o;;k;;lclasses\models;;n">
+</treenode>
+</treenode>
+<treenode node="PageController;PHP:Class Name;3676070501;f0;11;1;19;;;;vpos;;v;;a;;r;;d0,12;;b0,0;;m0;;e0;;i0;;o;;k;;lclasses\controllers;;n">
+<treenode node="__construct;PHP:Function Name;3676070501;f11;14;5;17;;;;vpos;;v;;a;;r;;d4,15;;b1,0;;m0;;e0;;i0;;o;;k;;lclasses\controllers;;n">
+</treenode>
+</treenode>
+<treenode node="PageModel;PHP:Class Name;94140973;f0;4;1;12;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e0;;i0;;o;;k;;lclasses\models;;n">
+<treenode node="__construct;PHP:Function Name;94140973;f11;7;5;10;;;;vpos;;v;;a;;r;;d4,8;;b1,0;;m0;;e0;;i0;;o;;k;;lclasses\models;;n">
+</treenode>
+</treenode>
+<treenode node="classes\controllers;PHP:NameSpace Name;3676070501;f9;8;29;8;;4072613414;f9;8;29;8;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Created by PhpStorm.&#10;User: Админ&#10;Date: 23.12.2017&#10;Time: 14:32;;d-1,-1;;b0,1;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="classes\models;PHP:NameSpace Name;94140973;f9;2;24;2;;288526790;f9;8;24;8;;;;vpos;;v;;a;;r;;d-1,-1;;b0,1;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="array_mess;PHP:Function Name;1136125647;f0;11;1;15;;;;vpos;;v;;a;;r;;d30,11;;b0,0;;m0;;e0;;i0;;o;;k;;lmessages;;p;;x;;n">
+</treenode>
+<treenode node="clear;PHP:Function Name;68493732;f0;2;1;7;;;;vpos;;v;;a;;r;;d16,2;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="debug;PHP:Function Name;2999682796;f0;4;1;6;;;;vpos;;v;;a;;r;;d21,4;;b0,0;;m0;;e0;;i0;;o;;k;;ldata;;p;;x;;n">
+</treenode>
+<treenode node="get_format_message;PHP:Function Name;1136125647;f0;17;1;19;;;;vpos;;v;;a;;r;;d37,17;;b0,0;;m0;;e0;;i0;;o;;k;;lmessage;;p;;x;;n">
+</treenode>
+<treenode node="get_mess;PHP:Function Name;68493732;f0;19;1;24;;1136125647;f0;7;1;9;;;;vpos;;v;;a;;r;;d19,19;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="my_array_keys;PHP:Function Name;2481097593;f0;21;1;27;;;;vpos;;v;;a;;r;;d28,21;;b0,0;;m0;;e0;;i0;;o;;k;;larr;;p;;x;;n">
+</treenode>
+<treenode node="print_arr;PHP:Function Name;68493732;f0;26;1;28;;156272012;f0;5;1;7;;1136125647;f0;21;1;23;;;;vpos;;v;;a;;r;;d24,26;;b0,0;;m0;;e0;;i0;;o;;k;;larr;;p;;x;;n">
+</treenode>
+<treenode node="save_mess;PHP:Function Name;68493732;f0;9;1;17;;1136125647;f0;2;1;5;;;;vpos;;v;;a;;r;;d20,9;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="sum;PHP:Function Name;2538875421;f0;2;1;4;;4110286394;f0;4;1;6;;2481097593;f0;14;1;19;;;;vpos;;v;;a float;;r;;d27,2;;b0,0;;m0;;e0;;i0;;o;;k;;la;;pb;;p;;x;;x;;n">
+</treenode>
+</phptree>
+<jstree>
+<treenode node="Plugin;JS:Function Name;1329197682;f0;141;3;2328;;;;vpos;;v;;aObject_;;c;;r;;d26,2319;;b0,0;;m0;;e0;;i0;;o;;k;;loption;;poption;;poption;;poption;;poption;;poption;;p_relatedTarget;;poption;;poption;;poption;;poption;;poption;;p;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;n">
+</treenode>
+<treenode node="ScrollSpy;JS:Function Name;1329197682;f0;1887;3;1900;;;;vpos;;v;;aObject_;;c;;r;;d39,1887;;b0,0;;m0;;e0;;i0;;o;;k;;lelement;;poptions;;p;;x;;x;;n">
+<treenode node="selector;JS:Function Name;1329197682;f9;1891;17;1891;;;;vpos;;v;;a;;r;;d-1,-1;;b0,1;;m0;;e0;;i0;;o;;k;;loptions;;ptarget;;p;;x;;x;;n">
+</treenode>
+</treenode>
+<treenode node="b;JS:Function Name;1228615134;f352;5;2520;6;;;;vpos;;v;;aObject_;;c;;r;;d2365,6;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;pb;;pb;;pb;;pb;;pb;;pd;;pb;;pb;;pc;;pd;;pb;;pb;;p;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;x;;n">
+<treenode node="selector;JS:Function Name;1228615134;f30261;5;30269;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,1;;m0;;e0;;i0;;o;;k;;loptions;;ptarget;;p;;x;;x;;n">
+</treenode>
+</treenode>
+<treenode node="c;JS:Function Name;1228615134;f8057;5;30665;5;;;;vpos;;v;;aObject_;;c;;r;;d30502,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;pc;;pc;;p;;x;;x;;x;;n">
+</treenode>
+<treenode node="clearMenus;JS:Function Name;1329197682;f0;780;3;799;;;;vpos;;v;;aObject_;;c;;r;;d25,780;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="d;JS:Function Name;1228615134;f662;5;12028;5;;;;vpos;;v;;a;;r;;d11887,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;pb;;p;;x;;x;;n">
+</treenode>
+<treenode node="g;JS:Function Name;1228615134;f7545;5;12139;5;;;;vpos;;v;;a;;r;;d12097,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;p;;x;;n">
+</treenode>
+<treenode node="getParent;JS:Function Name;1329197682;f0;767;3;778;;;;vpos;;v;;aObject_;;c;;r;;d28,767;;b0,0;;m0;;e0;;i0;;o;;k;;l$this;;p;;x;;n">
+</treenode>
+<treenode node="getTargetFromTrigger;JS:Function Name;1329197682;f0;688;3;694;;;;vpos;;v;;aObject_;;c;;r;;d42,688;;b0,0;;m0;;e0;;i0;;o;;k;;l$trigger;;p;;x;;n">
+</treenode>
+<treenode node="transitionEnd;JS:Function Name;1329197682;f0;33;3;50;;;;vpos;;v;;aObject_;;c;;r;;d27,33;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$el;JS:JS Var Name;1329197682;f8;55;11;55;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$target;JS:JS Var Name;1329197682;f8;504;15;504;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="$this;JS:JS Var Name;1329197682;f8;503;13;503;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="Affix;JS:JS Var Name;1329197682;f6;2216;11;2216;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f8;2235;3;2238;;;;vposObject_;;v;;a;;r;;d19,2235;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="RESET;JS:JS Var Name;1329197682;f8;2233;13;2233;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f8;2231;15;2231;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f8;2240;17;2240;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="checkPosition;JS:Function Name;1329197682;f18;2274;3;2313;;;;vpos;;v;;a;;r;;d46,2274;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="checkPositionWithEventLoop;JS:Function Name;1329197682;f18;2270;3;2272;;;;vpos;;v;;a;;r;;d59,2270;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getPinnedOffset;JS:Function Name;1329197682;f18;2262;3;2268;;;;vpos;;v;;a;;r;;d48,2262;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getState;JS:Function Name;1329197682;f18;2240;3;2260;;;;vpos;;v;;a;;r;;d86,2240;;b0,0;;m0;;e0;;i0;;o;;k;;lscrollHeight;;pheight;;poffsetTop;;poffsetBottom;;p;;x;;x;;x;;x;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Alert;JS:JS Var Name;1329197682;f6;94;11;94;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f8;100;27;100;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f8;98;15;98;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f8;102;17;102;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="close;JS:Function Name;1329197682;f18;102;3;135;;;;vpos;;v;;a;;r;;d39,102;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+<treenode node="removeElement;JS:Function Name;1329197682;f0;125;5;128;;;;vpos;;v;;aObject_;;c;;r;;d29,125;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Button;JS:JS Var Name;1329197682;f6;188;12;188;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f9;196;3;198;;;;vposString;;v;;a;;r;;d20,196;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f9;194;16;194;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f9;200;18;200;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="setState;JS:Function Name;1329197682;f19;200;3;222;;;;vpos;;v;;a;;r;;d47,200;;b0,0;;m0;;e0;;i0;;o;;k;;lstate;;p;;x;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1329197682;f19;224;3;244;;;;vpos;;v;;a;;r;;d40,224;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Carousel;JS:JS Var Name;1329197682;f6;309;14;309;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f11;330;3;335;;;;vposString;;v;;a;;r;;d22,330;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f11;328;30;328;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f11;326;18;326;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f11;337;20;337;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="cycle;JS:Function Name;1329197682;f21;348;3;358;;;;vpos;;v;;a;;r;;d42,348;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="getItemForDirection;JS:Function Name;1329197682;f21;365;3;373;;;;vpos;;v;;a;;r;;d72,365;;b0,0;;m0;;e0;;i0;;o;;k;;ldirection;;pactive;;p;;x;;x;;n">
+</treenode>
+<treenode node="getItemIndex;JS:Function Name;1329197682;f21;360;3;363;;;;vpos;;v;;a;;r;;d52,360;;b0,0;;m0;;e0;;i0;;o;;k;;litem;;p;;x;;n">
+</treenode>
+<treenode node="keydown;JS:Function Name;1329197682;f21;337;3;346;;;;vpos;;v;;a;;r;;d44,337;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="next;JS:Function Name;1329197682;f21;400;3;403;;;;vpos;;v;;a;;r;;d40,400;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="pause;JS:Function Name;1329197682;f21;387;3;398;;;;vpos;;v;;a;;r;;d42,387;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="prev;JS:Function Name;1329197682;f21;405;3;408;;;;vpos;;v;;a;;r;;d40,405;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="slide;JS:Function Name;1329197682;f21;410;3;463;;;;vpos;;v;;a;;r;;d51,410;;b0,0;;m0;;e0;;i0;;o;;k;;ltype;;pnext;;p;;x;;x;;n">
+</treenode>
+<treenode node="to;JS:Function Name;1329197682;f21;375;3;385;;;;vpos;;v;;a;;r;;d41,375;;b0,0;;m0;;e0;;i0;;o;;k;;lpos;;p;;x;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Collapse;JS:JS Var Name;1329197682;f6;547;14;547;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f11;567;3;569;;;;vposObject_;;v;;a;;r;;d22,567;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f11;565;30;565;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f11;563;18;563;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f11;571;20;571;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="addAriaAndCollapsedClass;JS:Function Name;1329197682;f21;679;3;686;;;;vpos;;v;;a;;r;;d78,679;;b0,0;;m0;;e0;;i0;;o;;k;;l$element;;p$trigger;;p;;x;;x;;n">
+</treenode>
+<treenode node="dimension;JS:Function Name;1329197682;f21;571;3;574;;;;vpos;;v;;a;;r;;d45,571;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getParent;JS:Function Name;1329197682;f21;669;3;677;;;;vpos;;v;;a;;r;;d45,669;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="hide;JS:Function Name;1329197682;f21;627;3;663;;;;vpos;;v;;a;;r;;d40,627;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="show;JS:Function Name;1329197682;f21;576;3;625;;;;vpos;;v;;a;;r;;d40,576;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1329197682;f21;665;3;667;;;;vpos;;v;;a;;r;;d42,665;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Dropdown;JS:JS Var Name;1329197682;f6;761;14;761;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="VERSION;JS:JS Var Name;1329197682;f11;765;18;765;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f11;801;20;801;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="keydown;JS:Function Name;1329197682;f21;837;3;867;;;;vpos;;v;;a;;r;;d44,837;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1329197682;f21;801;3;835;;;;vpos;;v;;a;;r;;d43,801;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Modal;JS:JS Var Name;1329197682;f6;925;11;925;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="BACKDROP_TRANSITION_DURATION;JS:JS Var Name;1329197682;f8;948;36;948;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f8;950;3;954;;;;vposObject_;;v;;a;;r;;d19,950;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f8;947;27;947;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f8;945;15;945;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f8;956;17;956;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="adjustDialog;JS:Function Name;1329197682;f18;1150;3;1157;;;;vpos;;v;;a;;r;;d45,1150;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="backdrop;JS:Function Name;1329197682;f18;1092;3;1142;;;;vpos;;v;;a;;r;;d49,1092;;b0,0;;m0;;e0;;i0;;o;;k;;lcallback;;p;;x;;n">
+</treenode>
+<treenode node="checkScrollbar;JS:Function Name;1329197682;f18;1166;3;1174;;;;vpos;;v;;a;;r;;d47,1166;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="enforceFocus;JS:Function Name;1329197682;f18;1048;3;1056;;;;vpos;;v;;a;;r;;d45,1048;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="escape;JS:Function Name;1329197682;f18;1058;3;1066;;;;vpos;;v;;a;;r;;d39,1058;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="handleUpdate;JS:Function Name;1329197682;f18;1146;3;1148;;;;vpos;;v;;a;;r;;d45,1146;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="hide;JS:Function Name;1329197682;f18;1018;3;1046;;;;vpos;;v;;a;;r;;d38,1018;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="hideModal;JS:Function Name;1329197682;f18;1076;3;1085;;;;vpos;;v;;a;;r;;d42,1076;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="measureScrollbar;JS:Function Name;1329197682;f18;1186;3;1193;;;;vpos;;v;;a;;r;;d49,1186;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="removeBackdrop;JS:Function Name;1329197682;f18;1087;3;1090;;;;vpos;;v;;a;;r;;d47,1087;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="resetAdjustments;JS:Function Name;1329197682;f18;1159;3;1164;;;;vpos;;v;;a;;r;;d49,1159;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="resetScrollbar;JS:Function Name;1329197682;f18;1182;3;1184;;;;vpos;;v;;a;;r;;d47,1182;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="resize;JS:Function Name;1329197682;f18;1068;3;1074;;;;vpos;;v;;a;;r;;d39,1068;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="setScrollbar;JS:Function Name;1329197682;f18;1176;3;1180;;;;vpos;;v;;a;;r;;d45,1176;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="show;JS:Function Name;1329197682;f18;960;3;1016;;;;vpos;;v;;a;;r;;d51,960;;b0,0;;m0;;e0;;i0;;o;;k;;l_relatedTarget;;p;;x;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1329197682;f18;956;3;958;;;;vpos;;v;;a;;r;;d53,956;;b0,0;;m0;;e0;;i0;;o;;k;;l_relatedTarget;;p;;x;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Popover;JS:JS Var Name;1329197682;f6;1778;13;1778;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f10;1786;18;1786;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f10;1784;17;1784;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f10;1797;19;1797;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="arrow;JS:Function Name;1329197682;f20;1836;3;1838;;;;vpos;;v;;a;;r;;d40,1836;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getContent;JS:Function Name;1329197682;f20;1826;3;1834;;;;vpos;;v;;a;;r;;d45,1826;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="hasContent;JS:Function Name;1329197682;f20;1822;3;1824;;;;vpos;;v;;a;;r;;d45,1822;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="setContent;JS:Function Name;1329197682;f20;1805;3;1820;;;;vpos;;v;;a;;r;;d45,1805;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="constructor;JS:JS Var Name;1329197682;f20;1799;31;1799;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Tab;JS:JS Var Name;1329197682;f6;2060;9;2060;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f6;2068;25;2068;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f6;2066;13;2066;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f6;2070;15;2070;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="activate;JS:Function Name;1329197682;f16;2110;3;2156;;;;vpos;;v;;a;;r;;d67,2110;;b0,0;;m0;;e0;;i0;;o;;k;;lelement;;pcontainer;;pcallback;;p;;x;;x;;x;;n">
+<treenode node="next;JS:Function Name;1329197682;f0;2116;5;2147;;;;vpos;;v;;aObject_;;c;;r;;d20,2116;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+<treenode node="show;JS:Function Name;1329197682;f16;2070;3;2108;;;;vpos;;v;;a;;r;;d35,2070;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="Tooltip;JS:JS Var Name;1329197682;f6;1264;13;1264;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1329197682;f10;1280;3;1294;;;;vposString;;v;;a;;r;;d14,1290;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1329197682;f10;1278;29;1278;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1329197682;f10;1276;17;1276;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1329197682;f10;1296;19;1296;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="applyPlacement;JS:Function Name;1329197682;f20;1496;3;1544;;;;vpos;;v;;a;;r;;d66,1496;;b0,0;;m0;;e0;;i0;;o;;k;;loffset;;pplacement;;p;;x;;x;;n">
+</treenode>
+<treenode node="arrow;JS:Function Name;1329197682;f20;1682;3;1684;;;;vpos;;v;;a;;r;;d40,1682;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="destroy;JS:Function Name;1329197682;f20;1717;3;1729;;;;vpos;;v;;a;;r;;d42,1717;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="disable;JS:Function Name;1329197682;f20;1690;3;1692;;;;vpos;;v;;a;;r;;d42,1690;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="enable;JS:Function Name;1329197682;f20;1686;3;1688;;;;vpos;;v;;a;;r;;d41,1686;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="enter;JS:Function Name;1329197682;f20;1357;3;1384;;;;vpos;;v;;a;;r;;d43,1357;;b0,0;;m0;;e0;;i0;;o;;k;;lobj;;p;;x;;n">
+</treenode>
+<treenode node="fixTitle;JS:Function Name;1329197682;f20;1590;3;1595;;;;vpos;;v;;a;;r;;d43,1590;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getCalculatedOffset;JS:Function Name;1329197682;f20;1619;3;1625;;;;vpos;;v;;a;;r;;d95,1619;;b0,0;;m0;;e0;;i0;;o;;k;;lplacement;;ppos;;pactualWidth;;pactualHeight;;p;;x;;x;;x;;x;;n">
+</treenode>
+<treenode node="getDefaults;JS:Function Name;1329197682;f20;1329;3;1331;;;;vpos;;v;;a;;r;;d46,1329;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getDelegateOptions;JS:Function Name;1329197682;f20;1346;3;1355;;;;vpos;;v;;a;;r;;d53,1346;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getOptions;JS:Function Name;1329197682;f20;1333;3;1344;;;;vpos;;v;;a;;r;;d52,1333;;b0,0;;m0;;e0;;i0;;o;;k;;loptions;;p;;x;;n">
+</treenode>
+<treenode node="getPosition;JS:Function Name;1329197682;f20;1601;3;1617;;;;vpos;;v;;a;;r;;d54,1601;;b0,0;;m0;;e0;;i0;;o;;k;;l$element;;p;;x;;n">
+</treenode>
+<treenode node="getTitle;JS:Function Name;1329197682;f20;1655;3;1664;;;;vpos;;v;;a;;r;;d43,1655;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="getUID;JS:Function Name;1329197682;f20;1666;3;1670;;;;vpos;;v;;a;;r;;d47,1666;;b0,0;;m0;;e0;;i0;;o;;k;;lprefix;;p;;x;;n">
+</treenode>
+<treenode node="getViewportAdjustedDelta;JS:Function Name;1329197682;f20;1627;3;1653;;;;vpos;;v;;a;;r;;d100,1627;;b0,0;;m0;;e0;;i0;;o;;k;;lplacement;;ppos;;pactualWidth;;pactualHeight;;p;;x;;x;;x;;x;;n">
+</treenode>
+<treenode node="hasContent;JS:Function Name;1329197682;f20;1597;3;1599;;;;vpos;;v;;a;;r;;d45,1597;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="hide;JS:Function Name;1329197682;f20;1560;3;1588;;;;vpos;;v;;a;;r;;d47,1560;;b0,0;;m0;;e0;;i0;;o;;k;;lcallback;;p;;x;;n">
+<treenode node="complete;JS:Function Name;1329197682;f0;1565;5;1571;;;;vpos;;v;;aObject_;;c;;r;;d24,1565;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+<treenode node="init;JS:Function Name;1329197682;f20;1296;3;1327;;;;vpos;;v;;a;;r;;d61,1296;;b0,0;;m0;;e0;;i0;;o;;k;;ltype;;pelement;;poptions;;p;;x;;x;;x;;n">
+</treenode>
+<treenode node="isInStateTrue;JS:Function Name;1329197682;f20;1386;3;1392;;;;vpos;;v;;a;;r;;d48,1386;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="leave;JS:Function Name;1329197682;f20;1394;3;1418;;;;vpos;;v;;a;;r;;d43,1394;;b0,0;;m0;;e0;;i0;;o;;k;;lobj;;p;;x;;n">
+</treenode>
+<treenode node="replaceArrow;JS:Function Name;1329197682;f20;1546;3;1550;;;;vpos;;v;;a;;r;;d75,1546;;b0,0;;m0;;e0;;i0;;o;;k;;ldelta;;pdimension;;pisVertical;;p;;x;;x;;x;;n">
+</treenode>
+<treenode node="setContent;JS:Function Name;1329197682;f20;1552;3;1558;;;;vpos;;v;;a;;r;;d45,1552;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="show;JS:Function Name;1329197682;f20;1420;3;1494;;;;vpos;;v;;a;;r;;d39,1420;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="tip;JS:Function Name;1329197682;f20;1672;3;1680;;;;vpos;;v;;a;;r;;d38,1672;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1329197682;f20;1698;3;1715;;;;vpos;;v;;a;;r;;d42,1698;;b0,0;;m0;;e0;;i0;;o;;k;;le;;p;;x;;n">
+</treenode>
+<treenode node="toggleEnabled;JS:Function Name;1329197682;f20;1694;3;1696;;;;vpos;;v;;a;;r;;d48,1694;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="b;JS:JS Var Name;1228615134;f118;5;119;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="backdrop;JS:JS Var Name;1329197682;f6;759;14;759;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="c;JS:JS Var Name;1228615134;f657;5;658;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="DEFAULTS;JS:JS Var Name;1228615134;f2342;5;4777;5;;;;vposString;;v;;a;;r;;d4729,5;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="TRANSITION_DURATION;JS:JS Var Name;1228615134;f4694;5;4713;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="VERSION;JS:JS Var Name;1228615134;f2324;5;2331;5;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="prototype;JS:JS Var Name;1228615134;f2380;5;2389;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="cycle;JS:Function Name;1228615134;f4972;5;5179;5;;;;vpos;;v;;a;;r;;d4989,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;p;;x;;n">
+</treenode>
+<treenode node="getItemForDirection;JS:Function Name;1228615134;f5312;5;5535;5;;;;vpos;;v;;a;;r;;d5345,5;;b0,0;;m0;;e0;;i0;;o;;k;;la;;pb;;p;;x;;x;;n">
+</treenode>
+<treenode node="getItemIndex;JS:Function Name;1228615134;f5191;5;5299;5;;;;vpos;;v;;a;;r;;d5215,5;;b0,0;;m0;;e0;;i0;;o;;k;;la;;p;;x;;n">
+</treenode>
+<treenode node="keydown;JS:Function Name;1228615134;f4790;5;4959;5;;;;vpos;;v;;a;;r;;d4809,5;;b0,0;;m0;;e0;;i0;;o;;k;;la;;p;;x;;n">
+</treenode>
+<treenode node="next;JS:Function Name;1228615134;f6079;5;6141;5;;;;vpos;;v;;a;;r;;d6094,5;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="pause;JS:Function Name;1228615134;f5843;5;6067;5;;;;vpos;;v;;a;;r;;d5860,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;p;;x;;n">
+</treenode>
+<treenode node="prev;JS:Function Name;1228615134;f6154;5;6216;5;;;;vpos;;v;;a;;r;;d6169,5;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="setState;JS:Function Name;1228615134;f2390;5;2746;5;;;;vpos;;v;;a;;r;;d2410,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;p;;x;;n">
+</treenode>
+<treenode node="slide;JS:Function Name;1228615134;f6229;5;7271;5;;;;vpos;;v;;a;;r;;d6248,5;;b0,0;;m0;;e0;;i0;;o;;k;;lb;;pd;;p;;x;;x;;n">
+</treenode>
+<treenode node="to;JS:Function Name;1228615134;f5548;5;5830;5;;;;vpos;;v;;a;;r;;d5562,5;;b0,0;;m0;;e0;;i0;;o;;k;;la;;p;;x;;n">
+</treenode>
+<treenode node="toggle;JS:Function Name;1228615134;f2759;5;3320;5;;;;vpos;;v;;a;;r;;d2776,5;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="callback;JS:JS Var Name;1329197682;f8;57;16;57;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="called;JS:JS Var Name;1329197682;f8;54;14;54;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="clickHandler;JS:JS Var Name;1329197682;f6;501;18;501;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="dismiss;JS:JS Var Name;1329197682;f6;93;13;93;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="e;JS:JS Var Name;1228615134;f721;5;722;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="f;JS:JS Var Name;1228615134;f7435;5;7436;5;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="h;JS:JS Var Name;1228615134;f7578;5;7579;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="href;JS:JS Var Name;1329197682;f8;502;12;502;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="jQuery;JS:JS Var Name;1329197682;f11;6;17;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="old;JS:JS Var Name;1329197682;f6;151;9;151;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="options;JS:JS Var Name;1329197682;f8;506;15;506;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+<treenode node="interval;JS:JS Var Name;1329197682;f28;508;36;508;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+<treenode node="slideIndex;JS:JS Var Name;1329197682;f8;507;18;507;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="toggle;JS:JS Var Name;1329197682;f6;760;12;760;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="version;JS:JS Var Name;1329197682;f6;12;13;12;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\WebForMySelf-Kudlay-php-course.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/WebForMySelf-Kudlay-php-course]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/WebForMySelf-Kudlay-php-course]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\oop\02\index.php"/>
+  <file name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\oop\02\classes\Car.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\php\Lesson10\homework.php">
+   <todo name="TODO add 1 element to array" pos="1;1"/>
+  </todofile>
+  <todofile name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\php\Lesson10\index.php">
+   <todo name="TODO add 1 element to array" pos="1;1"/>
+  </todofile>
+  <todofile name="C:\Home\Job\Projects\PhpstormProjects\WebForMySelf-Kudlay-php-course\php\Lesson11\index.php">
+   <todo name="TODO add 1 element to array" pos="1;1"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <lasttime value="1668364643"/>
+</project>
